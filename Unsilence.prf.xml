@@ -1,0 +1,36 @@
+<TaskerData sr="" dvi="1" tv="4.6u3m">
+	<Profile sr="prof25" ve="2">
+		<cdate>1389334247740</cdate>
+		<clp>true</clp>
+		<edate>1389428282364</edate>
+		<id>25</id>
+		<mid0>26</mid0>
+		<nme>Unsilence</nme>
+		<Event sr="con0" ve="2">
+			<code>7</code>
+			<pri>0</pri>
+			<Int sr="arg0" val="2"/>
+			<Str sr="arg1" ve="3"></Str>
+			<Str sr="arg2" ve="3">unsilence</Str>
+		</Event>
+	</Profile>
+	<Task sr="task26">
+		<cdate>1389428134500</cdate>
+		<edate>1420675317463</edate>
+		<id>26</id>
+		<nme>Volmax</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="7">
+			<code>308</code>
+			<Int sr="arg0" val="7"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>305</code>
+			<Int sr="arg0" val="7"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+	</Task>
+</TaskerData>

@@ -15,3 +15,7 @@ A text sent to the phone with "lockdown passcode" (replace passcode) will set yo
 *Missed_Emer_Call.prd.xml*  
 *Unsilence.prf.xml*  
 If the phone is silenced and a phone call is missed from selected important contacts an automatic email is sent will instructions to reply "unsilence" and the volume will be restored.
+
+**Battery Low**  
+*Bat_Low.prf.xml*  
+When battery reaches 10% then multiple services (auto-sync, bluetooth, mobile data, wifi, brightness set low) are turned off till battery levels are restored.

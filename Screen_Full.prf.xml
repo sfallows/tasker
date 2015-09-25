@@ -1,0 +1,75 @@
+<TaskerData sr="" dvi="1" tv="4.7u3m">
+	<Profile sr="prof19" ve="2">
+		<cdate>1420674753353</cdate>
+		<clp>true</clp>
+		<edate>1440422952496</edate>
+		<id>19</id>
+		<mid0>27</mid0>
+		<mid1>28</mid1>
+		<nme>Screen Full</nme>
+		<State sr="con0" ve="2">
+			<code>10</code>
+			<Int sr="arg0" val="0"/>
+		</State>
+		<State sr="con1" ve="2">
+			<code>140</code>
+			<Int sr="arg0" val="20"/>
+			<Int sr="arg1" val="100"/>
+		</State>
+	</Profile>
+	<Task sr="task27">
+		<cdate>1420674770071</cdate>
+		<edate>1440422952496</edate>
+		<id>27</id>
+		<nme>Bright High</nme>
+		<Action sr="act0" ve="7">
+			<code>808</code>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>37</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%Night</lhs>
+					<op>2</op>
+					<rhs>1</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>810</code>
+			<Int sr="arg0" val="100"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>43</code>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>810</code>
+			<Int sr="arg0" val="175"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task28">
+		<cdate>1420675203245</cdate>
+		<edate>1423850003541</edate>
+		<id>28</id>
+		<nme>Bright norm</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="7">
+			<code>808</code>
+			<Int sr="arg0" val="1"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>810</code>
+			<Int sr="arg0" val="120"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+</TaskerData>

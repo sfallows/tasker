@@ -1,0 +1,48 @@
+<TaskerData sr="" dvi="1" tv="4.7u3m">
+	<Profile sr="prof31" ve="2">
+		<cdate>1438371255945</cdate>
+		<edate>1438371519981</edate>
+		<id>31</id>
+		<mid0>32</mid0>
+		<mid1>33</mid1>
+		<nme>work vibrate</nme>
+		<Day sr="con0">
+			<wday0>4</wday0>
+			<wday1>6</wday1>
+			<wday2>5</wday2>
+			<wday3>3</wday3>
+			<wday4>2</wday4>
+		</Day>
+		<Time sr="con1">
+			<fh>7</fh>
+			<fm>0</fm>
+			<th>16</th>
+			<tm>30</tm>
+		</Time>
+	</Profile>
+	<Task sr="task32">
+		<cdate>1438371271378</cdate>
+		<edate>1438371433790</edate>
+		<id>32</id>
+		<nme>vol</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>308</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task33">
+		<cdate>1438371491692</cdate>
+		<edate>1438371519981</edate>
+		<id>33</id>
+		<nme>vol up</nme>
+		<Action sr="act0" ve="7">
+			<code>308</code>
+			<Int sr="arg0" val="5"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+	</Task>
+</TaskerData>
